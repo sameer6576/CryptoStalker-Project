@@ -60,7 +60,7 @@ const App = () => (
             <br />
             All Rights Reserved.
             <br />
-            Project By Sameer And Payal
+            Project By Sameer
           </Typography.Title>
           <Space></Space>
         </div>
